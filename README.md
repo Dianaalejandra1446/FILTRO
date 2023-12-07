@@ -1,4 +1,6 @@
 # FILTRO RESPUESTAS
+![drawSQL-base-de-datos-tbm-export-2023-12-07](https://github.com/Dianaalejandra1446/FILTRO/assets/139186201/08eb423a-6e1c-490b-bfe9-637771e66d42)
+![FILTRO](https://github.com/Dianaalejandra1446/FILTRO/assets/139186201/de6268c7-64bc-4ed6-83f6-82e4af973f39)
 
 ## CREACION DE TABLAS
 ~~~
